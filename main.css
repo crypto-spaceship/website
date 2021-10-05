@@ -279,6 +279,12 @@ ul.timeline > li:before {
   color: white;
 }
 
+.github {
+  width: 30px;
+  height: 100%;
+  color: white;
+}
+
 .twitter {
 }
 
